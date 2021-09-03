@@ -36,7 +36,7 @@ public class ScheduleServer {
         System.out.println("Destorying...");
     }
     public void destroySystemObjects(){
-	System.out.println("Destroying system objects...");
+	    System.out.println("Destroying system objects...");
     }
     public void destoryListeners(){
         System.out.println("Destroying listeners...");
